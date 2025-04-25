@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Umapathi  
+## 💻 Web Developer | React & PHP | Anime Fan 😎
 
-<!--
-**Umapathi2004/Umapathi2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Skills
+- HTML, CSS, JavaScript, PHP
+- React, MongoDB
+- Git & GitHub
 
-Here are some ideas to get you started:
+### 📫 Contact Me
+- 📧 umapathi1014@gmail.com
+- 🌐 [Portfolio](https://umapathi-portfolio.netlify.app/)
+- 🧑‍💻 [GitHub](https://github.com/Umapathi2004)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umapathi2004&show_icons=true&theme=radical)
